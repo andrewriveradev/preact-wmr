@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "start": "wmr"
+  },
+  "eslintConfig": {
+    "extends": "preact"
+  },
+  "alias": {
+    "react": "preact/compat",
+    "react-dom": "preact/compat"
+  },
+  "dependencies": {
+    "preact-iso": "^0.2.0"
+  },
+  "devDependencies": {
+    "wmr": "^1.0.0"
+  },
+  "keywords": [],
+  "name": "preact-wmr",
+  "description": "Preact WMR starter"
+}
